@@ -1,0 +1,70 @@
+# Day 1 — Exercises & Assessment
+
+**Phase:** 1 — Python for AI
+**Topic:** Python Fundamentals
+
+## 1. Conceptual Questions
+
+1. What is Python, and why is it used in AI?
+2. What is a variable in Python?
+3. Explain the difference between `int`, `float`, `str`, and `bool`.
+4. What is the difference between `print()` and `input()`?
+5. Why does `input()` return a string by default?
+6. What is type conversion?
+7. What is the purpose of `type()`?
+8. What is the difference between a comment and an executable statement?
+9. Why is indentation important in Python?
+10. What is the difference between `print(5 + 3)` and `print("5 + 3")`?
+
+## 2. Practical Questions
+
+### Exercise 1 — Personal Profile
+
+Write a Python program that accepts your name, age and favourite programming language, then displays them.
+
+### Exercise 2 — Type Identification
+
+Create four variables:
+
+- A string
+- An integer
+- A float
+- A Boolean
+
+Print their data types using `type()`.
+
+### Exercise 3 — Study Calculator
+
+Accept weekly study hours from the user and calculate estimated monthly study hours.
+
+### Exercise 4 — Type Conversion
+
+Accept a number as input, convert it into an integer and add 10.
+
+### Exercise 5 — Code Tracing
+
+Predict the output:
+
+```python
+x = 10
+x = 20
+print(x)
+print(type(x))
+```
+
+## 3. Quiz Record
+
+**Quiz:** Day 1 Assessment
+**Total Questions:** 5
+**Score:** Pending
+
+## 4. Mistakes & Corrections
+
+To be updated after completing the exercises.
+
+## 5. Completion Status
+
+- [x] Conceptual questions completed
+- [x] Practical exercises completed
+- [x] Quiz completed
+- [x] Mistakes reviewed

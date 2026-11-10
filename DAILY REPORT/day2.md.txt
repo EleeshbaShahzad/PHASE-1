@@ -1,0 +1,114 @@
+# Day 2 — Data Types, Operators & Type Conversion
+
+**Phase:** 1 — Python for AI  
+**Day:** 02  
+**Date:** 10 November 2026  
+**Topic:** Data Types, Operators & Type Conversion
+
+## 1. Learning Objectives
+
+- Understand Python built-in data types.
+- Explore arithmetic operators.
+- Understand comparison operators.
+- Learn logical operators.
+- Understand assignment operators.
+- Perform implicit and explicit type conversion.
+- Apply operators in practical programming.
+
+## 2. Topics Covered
+
+### A. Python Data Types
+
+- Integer (`int`)
+- Float (`float`)
+- String (`str`)
+- Boolean (`bool`)
+- Complex (`complex`)
+- Introduction to List, Tuple, Set and Dictionary.
+
+### B. Arithmetic Operators
+
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Floor Division (`//`)
+- Modulus (`%`)
+- Exponentiation (`**`)
+
+### C. Comparison Operators
+
+- Equal to (`==`)
+- Not equal to (`!=`)
+- Greater than (`>`)
+- Less than (`<`)
+- Greater than or equal (`>=`)
+- Less than or equal (`<=`)
+
+### D. Logical Operators
+
+- AND
+- OR
+- NOT
+
+### E. Assignment Operators
+
+- `=`
+- `+=`
+- `-=`
+- `*=`
+- `/=`
+- `//=`
+- `%=`
+- `**=`
+
+### F. Type Conversion
+
+**Implicit Conversion:** Automatic conversion performed by Python.
+
+**Explicit Conversion:** Manual conversion using functions such as:
+- `int()`
+- `float()`
+- `str()`
+- `bool()`
+
+## 3. Practical Implementation
+
+**Program:** Student Performance Calculator
+
+**File:** `Code/day2_student_calculator.py`
+
+Implemented a program that:
+
+- Accepts student information.
+- Takes marks in three subjects.
+- Calculates total marks.
+- Calculates average marks.
+- Calculates percentage.
+- Checks whether the student passed based on the average.
+
+## 4. Key Learning Outcomes
+
+- Understood the differences between Python data types.
+- Learned how arithmetic operators perform calculations.
+- Understood how comparison operators return Boolean values.
+- Learned how logical operators combine conditions.
+- Practised updating variables using assignment operators.
+- Understood implicit and explicit type conversion.
+- Applied mathematical operations in a practical program.
+
+## 5. Challenges and Improvements
+
+To be updated after practical exercises and assessment.
+
+## 6. Assessment
+
+**Quiz:** Day 2 Knowledge Check  
+**Total Questions:** 5  
+**Score:** Pending
+
+## 7. Next Learning Goals
+
+- Study conditional statements.
+- Understand if, elif and else.
+- Practise decision-making in Python programs.

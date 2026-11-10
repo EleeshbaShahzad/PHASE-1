@@ -1,0 +1,64 @@
+# Day 01 — Python Fundamentals
+
+**Phase:** 01 — Python for AI  
+**Day:** 01  
+**Status:** In Progress / Completed
+
+## 1. Learning Objectives
+- Understand Python and its role in Artificial Intelligence.
+- Learn variables and assignment.
+- Understand basic Python data types.
+- Use print() and input().
+- Understand type conversion.
+- Learn comments and indentation.
+
+## 2. Concepts Covered
+
+| Concept | Description |
+|---|---|
+| Variables | Storing and referencing values |
+| String | Text data |
+| Integer | Whole numbers |
+| Float | Decimal numbers |
+| Boolean | True or False values |
+| print() | Displaying output |
+| input() | Receiving user input |
+| int() | Integer conversion |
+| float() | Decimal conversion |
+| Comments | Explaining code |
+| Indentation | Defining Python code blocks |
+
+## 3. Practical Implementation
+
+**Project:** AI Learner Profile
+
+**File:** `Code/day1_ai_profile.py`
+
+Implemented a Python program that:
+- Accepts user information.
+- Takes weekly study hours.
+- Accepts an AI topic of interest.
+- Displays a learner profile.
+- Calculates estimated monthly study hours.
+
+## 4. Key Learning Outcomes
+
+- Understood that input() returns a string by default.
+- Learned why numeric conversion is necessary.
+- Understood the difference between printing text and evaluating expressions.
+- Learned how indentation defines Python code blocks.
+
+## 5. Challenges and Improvements
+
+To be updated after completing the Day 1 assessment.
+
+## 6. Assessment
+
+Quiz Score: To be recorded.
+
+## 7. Next Learning Goals
+
+- Study Python operators.
+- Understand data types in more depth.
+- Practice type conversion.
+- Write independent Python programs.

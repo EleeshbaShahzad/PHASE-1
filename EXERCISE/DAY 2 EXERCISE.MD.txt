@@ -1,0 +1,104 @@
+# Day 2 — Exercises & Assessment
+
+**Phase:** 1 — Python for AI  
+**Topic:** Data Types, Operators & Type Conversion
+
+## 1. Conceptual Questions
+
+1. What are Python's built-in data types?
+2. Differentiate between int, float, str and bool.
+3. What is the difference between `/` and `//`?
+4. Explain the modulus operator with an example.
+5. What is the difference between `=` and `==`?
+6. Explain all three logical operators.
+7. What is the difference between implicit and explicit type conversion?
+8. What does `int(8.9)` return and why?
+9. What are assignment operators? Explain with examples.
+10. Why do comparison operators return Boolean values?
+
+## 2. Practical Exercises
+
+### Exercise 1 — Basic Calculator
+
+Accept two numbers and display:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Floor division
+- Modulus
+- Exponentiation
+
+### Exercise 2 — Age Comparison
+
+Accept a person's age and check:
+- Whether the person is 18 or older.
+- Whether the person is below 18.
+- Whether the person is exactly 18.
+
+### Exercise 3 — Logical Conditions
+
+Create two Boolean variables and demonstrate:
+- AND
+- OR
+- NOT
+
+### Exercise 4 — Assignment Operators
+
+Create a variable with an initial value of 20. Apply:
+- Addition assignment
+- Subtraction assignment
+- Multiplication assignment
+- Division assignment
+
+Print the result after every operation.
+
+### Exercise 5 — Type Conversion
+
+Accept a decimal number as input, convert it into:
+- Integer
+- Float
+- String
+
+Display the resulting values and their data types.
+
+### Exercise 6 — Code Tracing
+
+Predict the output:
+
+```python
+x = 15
+y = 4
+
+print(x / y)
+print(x // y)
+print(x % y)
+print(x ** 2)
+```
+
+### Exercise 7 — Student Performance
+
+Extend the Student Performance Calculator:
+- Accept marks in three subjects.
+- Calculate total and average.
+- Calculate percentage.
+- Check whether the average is at least 50.
+- Display the results clearly.
+
+## 3. Quiz Record
+
+**Quiz:** Day 2 Knowledge Check  
+**Total Questions:** 5  
+**Score:** Pending
+
+## 4. Mistakes & Corrections
+
+To be updated after completing the exercises.
+
+## 5. Completion Status
+
+- [ ] Conceptual questions completed
+- [ ] Practical exercises completed
+- [ ] Quiz completed
+- [ ] Mistakes reviewed
+- [ ] Code tested successfully
